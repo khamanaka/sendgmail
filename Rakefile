@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "sendgmail"
   gem.homepage = "http://github.com/hamanaka/sendgmail"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A library for sending a mail from Gmail.}
+  gem.description = %Q{A library for sending a mail from Gmail.}
   gem.email = "kei.hamanaka@gmail.com"
   gem.authors = ["HAMANAKA, Kei"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
